@@ -1,4 +1,5 @@
-**Hi I'm Carrie!**
+**Hi I'm Carrie!
+Star my repo's! Thanks for checking it out!!**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrie-murchison)](https://github.com/anuraghazra/github-readme-stats)
 
