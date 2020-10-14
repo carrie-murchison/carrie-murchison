@@ -1,7 +1,7 @@
 **Hi I'm Carrie!**
 
 And this is Coach
-![Image of Coach](/Users/carriemurchison/Desktop/IMG_2285.HEIC )
+![Image of Coach](IMG_2285.HEIC)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrie-murchison)](https://github.com/anuraghazra/github-readme-stats)
