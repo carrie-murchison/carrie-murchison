@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on building my profile
 - 👯 I’m looking to collaborate 
-- 🤔 I’m looking for help with comitting to open source code
 - 😄 Pronouns: she/her
 
 
