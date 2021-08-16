@@ -1,4 +1,5 @@
-**Hi I'm Carrie!**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+my+name+is+Carrie;Check+out+my+repos)](https://git.io/typing-svg)
+
 
 
 
